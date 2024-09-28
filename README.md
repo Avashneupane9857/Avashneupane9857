@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Avash Neupane</h1>
 <h3 align="center">A passionate DevOps Engineer and Frontend Developer From Nepal</h3>
 
-- 🌱 I’m currently learning **Terraform**
+<p align="center">🌱 I’m currently learning <strong>Terraform</strong></p>
 
-- 📫 How to reach me **reevasnp123@gmail.com**
+<p align="center">📫 How to reach me: <strong>reevasnp123@gmail.com</strong></p>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
+<br/>
+
+<h3 align="center">Languages:</h3>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -15,8 +17,10 @@
   </a>
 </p>
 
-<h3 align="left">Databases:</h3>
-<p align="left">
+<br/>
+
+<h3 align="center">Databases:</h3>
+<p align="center">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -28,8 +32,10 @@
   </a>
 </p>
 
-<h3 align="left">DevOps Tools:</h3>
-<p align="left">
+<br/>
+
+<h3 align="center">DevOps Tools:</h3>
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
@@ -47,13 +53,11 @@
   </a>
 </p>
 
-<h3 align="left">Frontend Frameworks:</h3>
-<p align="left">
+<br/>
+
+<h3 align="center">Frontend Frameworks:</h3>
+<p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
 </p>
-
