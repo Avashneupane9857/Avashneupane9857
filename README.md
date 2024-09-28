@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Avash Neupane from Nepal<br><br>- 📚 I'm currently learning Terraform</p>
+
 
 ###
 
