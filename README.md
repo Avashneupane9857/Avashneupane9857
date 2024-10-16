@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avash Neupane</h1>
 
-
-
-
 - 📫 How to reach me **reevasnp123@gmail.com**
-
-
 
 ###
 
@@ -16,8 +11,6 @@
 
 <br clear="both">
 
-
-
 ###
 
 <br clear="both">
@@ -27,10 +20,6 @@
 ###
 
 <h3 align="left"></h3>
-
-###
-
-
 
 ###
 
@@ -56,6 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
 </div>
-
-###
